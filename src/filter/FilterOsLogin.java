@@ -33,7 +33,7 @@ private 	List<String>  list = new ArrayList<String>();
 	      String urls = request.getServletPath();	 
 	//	  System.out.println(urls);
   if(list.contains(urls)){		
-	      // System.out.println("·¢Æð");
+	      // System.out.println("Â·Â¢Ã†Ã°");
 	    	arg2.doFilter(request, response); 
 	    }
     else {
